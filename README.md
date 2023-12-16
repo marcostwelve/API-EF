@@ -86,7 +86,6 @@ Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
 
 ## 👷 Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, colaboradores.
 
 * **Maurício Marcelino** - *Back-End do projeto* - [Maurício Marcelino](https://github.com/marcostwelve)
 
